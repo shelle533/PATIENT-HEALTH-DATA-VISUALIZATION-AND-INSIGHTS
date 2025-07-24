@@ -17,5 +17,38 @@ Understand where post-discharge interventions are needed,
 And make data-driven decisions for better health outcomes and resource allocation.
 
 Instead of going through thousands of rows of patient records, visual dashboards make these insights available at a glance.
-![POWWER BI DASHBOARD SCREENSHOT](
+  # SEE LIVE DASHBOARD
+![POWWER BI DASHBOARD SCREENSHOT](https://github.com/shelle533/PATIENT-HEALTH-DATA-VISUALIZATION-AND-INSIGHTS/blob/main/screenshot%20for%20project%20submission%203mtt.png?raw=true)
+## 📊 Key Insights from My Dashboard:
+Average Length of Stay: Patients spend an average of 16 days in care.
 
+Average Age: Patients are mostly older, with a mean age of 53.87 years.
+
+Patient Load: 10,000 patients were analyzed, with an average of 1.5 comorbidities per person, totaling over 15,000 comorbidities.
+
+Gendered Diagnoses:
+
+Males presented more with injuries and respiratory problems,
+
+Females showed a higher rate of diabetes, possibly linked to glucose metabolism differences.
+
+Follow-Up Appointments: A large number of patients do not return for follow-up, revealing a gap in continuity of care.
+
+Discharge Destinations: Most patients were discharged to rehabilitation centers, nursing homes, or home, but the need for follow-up remains significant.
+
+Medication Adherence: Though tracked, it needs deeper exploration to fully understand treatment compliance.
+
+Overall, this data highlights a complex patient population with high care demands and low follow-up engagement, signaling areas where hospitals and health agencies can improve patient outcomes.
+
+## 🎨 Design Choices:
+I used navy blue as the dominant color in the dashboard, which is calm and widely used in the medical field for clarity and professionalism.
+I also ensured that charts like bar charts and line graphs were used for simplicity and fast comprehension by stakeholders.
+![POWWER BI DASHBOARD SCREENSHOT](https://github.com/shelle533/PATIENT-HEALTH-DATA-VISUALIZATION-AND-INSIGHTS/blob/main/screenshot%20for%20project%20submission%203mtt.png?raw=true)
+![POWWER BI DASHBOARD SCREENSHOT](https://github.com/shelle533/PATIENT-HEALTH-DATA-VISUALIZATION-AND-INSIGHTS/blob/main/screenshot%20for%20project%20submission%203mtt.png?raw=true)
+
+## Tools & Technologies:
+Power BI for data visualization
+
+Power Query for data transformation and cleaning
+# THE PATIENT DATA SET (EXCEL)
+![THE PATIENT DATA SET]()
