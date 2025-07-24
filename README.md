@@ -46,6 +46,9 @@ I also ensured that charts like bar charts and line graphs were used for simplic
 ![POWWER BI DASHBOARD SCREENSHOT](https://github.com/shelle533/PATIENT-HEALTH-DATA-VISUALIZATION-AND-INSIGHTS/blob/main/screenshot%20for%20project%20submission%203mtt.png?raw=true)
 ![POWWER BI DASHBOARD SCREENSHOT](https://github.com/shelle533/PATIENT-HEALTH-DATA-VISUALIZATION-AND-INSIGHTS/blob/main/screenshot%20for%20project%20submission%203mtt.png?raw=true)
 
+## 🧩 Challenges and Solutions:
+While importing data, I encountered data type inconsistencies. Some columns had mixed formats that prevented proper analysis. I resolved this using Power Query, transforming and cleaning the data before building the dashboard.
+
 ## Tools & Technologies:
 Power BI for data visualization
 
@@ -55,4 +58,14 @@ Power Query for data transformation and cleaning
 
 # THE POWER BI DASHBOARD OF THE PATIENT
 ![THE PATIENT POWER BI DASHBOARD](https://github.com/shelle533/PATIENT-HEALTH-DATA-VISUALIZATION-AND-INSIGHTS/commit/1712bf251674126844e1965fd0ac851c45821d89#diff-4579d85339beb947fc5e5c337a1f08de20fc61aea0063abdaafb3091d623f26b)
+
+# 💡 Final Words:
+This project not only deepened my skills in data cleaning, modeling, and dashboard building, but also showed me how critical data visualization is in improving healthcare delivery. With tools like Power BI, we can bridge the gap between raw data and impactful medical decisions.
+
+I’m excited to keep building projects that solve real problems with data.
+
+Thank you.
+
+![HEALTH CARE PRACTITIONERS](https://raw.githubusercontent.com/shelle533/PATIENT-HEALTH-DATA-VISUALIZATION-AND-INSIGHTS/a867be1bf021d3d88c19f93c7f60e40005ffd553/istockphoto-1319031310-2048x2048.jpg)
+
 
