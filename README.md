@@ -51,4 +51,7 @@ Power BI for data visualization
 
 Power Query for data transformation and cleaning
 # THE PATIENT DATA SET (EXCEL)
-![THE PATIENT DATA SET](HR Analytics Data.xlsx)
+![THE PATIENT DATA SET](https://github.com/shelle533/PATIENT-HEALTH-DATA-VISUALIZATION-AND-INSIGHTS/commit/509a86158ec9bc24a7a4d6157d9ae5421e3f033c#diff-e6f127b78b548029a928f3e25588dd91bd7c4f21b4b7fa72f9d032d947de69ab)
+
+# THE POWER BI DASHBOARD OF THE PATIENT
+![THE PATIENT POWER BI DASHBOARD]()
