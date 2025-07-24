@@ -51,4 +51,4 @@ Power BI for data visualization
 
 Power Query for data transformation and cleaning
 # THE PATIENT DATA SET (EXCEL)
-![THE PATIENT DATA SET]()
+![THE PATIENT DATA SET](HR Analytics Data.xlsx)
